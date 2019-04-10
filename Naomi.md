@@ -8,6 +8,8 @@ Netbooting is done via a Net Dimm and requires a specific bios version to run.
 
 ## Carts
 
+The House Of The Dead 2 will only run from a special cart. It originally came in a Naomi with a metal box. It uses an older version of the bios.
+
 ## GD-ROM
 
 ## JVS
