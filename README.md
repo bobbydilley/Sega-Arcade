@@ -1,4 +1,4 @@
-# Sega-Arcade
+# Sega Arcade
 
 This repository will attempt to contain all of the useful information about these specific arcade systems. Please feel free to create issues or pull requests with new information.
 
@@ -8,6 +8,10 @@ This repository will attempt to contain all of the useful information about thes
 - [Sega Lindbergh](Lindbergh.md)
 - [Sega System SP](SystemSP.md)
 
+### Other
+
+- [JVS](JVS.md)
+- [Special Control Board](SpecialControlBoard.md)
 
 ### Disclaimer
 
