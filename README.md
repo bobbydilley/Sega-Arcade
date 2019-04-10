@@ -1,6 +1,10 @@
 # Sega-Arcade
-Repository containing information about all the JVS Sega arcade systems
 
-[Sega Naomi](Naomi.md)
-[Sega Lindbergh](Lindbergh.md)
-[Sega Chihiro](Chihiro.md)
+This repository will attempt to contain all of the useful information about these specific arcade systems. Please feel free to create issues or pull requests with new information.
+
+- [Sega Naomi](Naomi.md)
+- [Sega TriForce](TriForce.md)
+- [Sega Chihiro](Chihiro.md)
+- [Sega Lindbergh](Lindbergh.md)
+- [Sega System SP](SystemSP.md)
+
