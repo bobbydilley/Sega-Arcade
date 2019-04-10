@@ -8,7 +8,6 @@ This repository will attempt to contain all of the useful information about thes
 - [Sega Lindbergh](Lindbergh.md)
 - [Sega System SP](SystemSP.md)
 
-### Other
 
 - [JVS](JVS.md)
 - [Special Control Board](SpecialControlBoard.md)
