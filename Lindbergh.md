@@ -10,6 +10,21 @@ Although the system has a CF Card and Hard Disk to play the games, as it is a no
 
 ## Games
 
+- Afterburner Climax
+- The House Of The Dead 4
+- The House Of The Dead 4 Special
+- Let's Go Jungle
+- Let's Go Jungle Special
+- 2 Step : 2 Spicy
+- The House Of The Dead Ex
+- Outrun 2 SP
+- Sega Race TV
+- Initial D 4
+- Initial D 5
+- Ghost Squad Evolution
+
+## Games
+
 The system initially boots from a CF card which is encrypted with ATA encryption. The CF card runs linux, and starts an application named _segaboot_ which is responsable for checking the system state and running the game.
 
 Games are stored on a Hard Disk Drive in an encrypted format. There are multiple partitions on this drive, that are encrypted with different keys.
@@ -24,9 +39,9 @@ The games also check that the soundcard and video card are the correct ones befo
 
 The following graphics card can be used, and are listed from best to worst.
 
-NVidia GeForce 7800GS
-NVidia GeForce 7600
-NVidia GeForce 6 Series
+- NVidia GeForce 7800GS
+- NVidia GeForce 7600
+- NVidia GeForce 6 Series
 
 Cards have multiple outputs, and multiple games use these.
 
