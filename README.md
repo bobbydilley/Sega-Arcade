@@ -8,3 +8,7 @@ This repository will attempt to contain all of the useful information about thes
 - [Sega Lindbergh](Lindbergh.md)
 - [Sega System SP](SystemSP.md)
 
+
+### Disclaimer
+
+If anyone feels as though the information on here is too detailed or damaging to any of Segas operations, please feel free to contact me or make an issue and I will take any information off strait away.
