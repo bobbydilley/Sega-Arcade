@@ -8,6 +8,10 @@ This repository will attempt to contain all of the useful information about thes
 - [Sega Lindbergh](Lindbergh.md)
 - [Sega System SP](SystemSP.md)
 
+### Guides
+
+- [Netbooting](Netbooting.md)
+
 
 ### Disclaimer
 
