@@ -13,3 +13,7 @@ A type 3 chihiro (and triforce, seeing as they have the same media board) requir
 ## Media Board
 
 The Media Board in the Type 3 Chihiro is 100% the same as the Media Board in the Type 3 TriForce.
+
+## Link Play
+
+Link play is done through the same Ethernet port that is used for Netbooting. Link play will change the IP address used.
