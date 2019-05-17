@@ -49,3 +49,5 @@ Cards have multiple outputs, and multiple games use these.
 ## Baseboard
 
 The baseboard has a small battery on it to save settings to the EEPROM and flash memory on the card.
+
+There is a strange version of the baseboard with a large connector on the front for connecting directly to inputs, and not using the JVS protocol. This however only works for certain games (I beleive the Horse game) and is not compatible with the JVS I/O.
