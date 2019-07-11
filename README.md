@@ -15,4 +15,4 @@ This repository will attempt to contain all of the useful information about thes
 
 ### Disclaimer
 
-If anyone feels as though the information on here is too detailed or damaging to any of Segas operations, please feel free to contact me or make an issue and I will take any information off strait away.
+If anyone feels as though the information on here is too detailed or damaging to any of Segas operations, please feel free to contact me or make an issue and I will take any information off straight away.
