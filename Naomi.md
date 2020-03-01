@@ -8,7 +8,7 @@ Netbooting is done via a Net Dimm and requires a specific bios version to run.
 
 ## Carts
 
-The House Of The Dead 2 will only run from a special cart. It originally came in a Naomi with a metal box. It uses an older version of the bios.
+The House Of The Dead 2 originally would only run from a special cart. It originally came in a Naomi with a metal box. It uses an older version of the bios. Recently a special netbootable image of HOTD2 was created which can load in the special version of the BIOS to the Naomi upon boot. This means the game is now playable.
 
 ## Ninja Assult
 
