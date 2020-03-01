@@ -12,7 +12,9 @@ The House Of The Dead 2 will only run from a special cart. It originally came in
 
 ## Ninja Assult
 
-This game only boots from a cart and requires a special Namco I/O. The Service/Test buttons on the Naomi will not work on this game.
+This game only boots from a cart and requires a special Namco I/O. It checks for the name of the IO on boot. The Service/Test buttons on the Naomi will not work on this game.
+
+Ninja Assault uses the screen input part of JVS. For this 0, 0 actually corresponds to the bottom right of the screen, and not the top left as you would normally assume.
 
 ## JVS
 
